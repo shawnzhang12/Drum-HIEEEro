@@ -11,5 +11,5 @@ In order to play the game, perform the following steps after cloning the repo (i
 3. Select Song and Difficulty.
 <img src="images/1.png" width="400">
 
-4. The song will start and the notes will drop! Have fun Drumming!
+4. The song will start and the notes will drop! Have Fun Drumming!
 <img src="images/3.png" width="400">
