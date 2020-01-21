@@ -8,7 +8,7 @@ In order to play the game, perform the following steps after cloning the repo (i
 2. Change the one line in main.py to match your current directory. Then run by entering `python3 main.py` in terminal.
 <img src="images/2.png" width="400">
 
-3. Select Song and Difficulty
+3. Select Song and Difficulty.
 <img src="images/1.png" width="400">
 
 4. The song will start and the notes will drop! Have fun Drumming!
